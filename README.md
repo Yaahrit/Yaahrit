@@ -1,12 +1,8 @@
-# 💫 About Me:
-🔭 Library management system<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 React, React Native<br>💬 Java<br>
- 👨‍💻 All of my projects are available at
- [https://github.com/Yaahrit?tab=repositories]
-
-- 📫 How to reach me **syashraj903@gmail.com**
-
-- ⚡ Fun fact **I think, I am curious.**
-
+- 👋 Hi, I’m @Yaahrit
+- 👀 I’m interested in JAVA
+- 🌱 I’m currently learning PYTHON,REACT JS
+- 💞️ I’m looking to collaborate on some projects
+- 📫 How to reach me mail me @syashraj903@gmail.com
 
 
 
