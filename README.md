@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @Yaahrit
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning PYTHON,REACT JS
-- 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me mail me @syashraj903@gmail.com
+[![MasterHead](https://www.ajaydubedi.com/wp-content/uploads/2015/06/Programming-Logic-Key-Ingredients-Banner.png)](https://bhumikabiyani.io)
+<h1 align="center">Hi 👋, I'm Yash Raj</h1>
+<h3 align="center">A passionate Developer from India.</h3>
+<img align="right" alt="Coding" width="400" src="https://techforceglobal.com/wp-content/uploads/2022/07/3.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumikabiyani&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikabiyani" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **React js **
+
+- 💬 Ask me about **HTML, CSS, Java, DSA,**
+
+- 📫 How to reach me **syashraj903@gmail.com**
+
 
 
 
