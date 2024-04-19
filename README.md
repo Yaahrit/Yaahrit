@@ -1,4 +1,4 @@
-[![MasterHead](https://www.ajaydubedi.com/wp-content/uploads/2015/06/Programming-Logic-Key-Ingredients-Banner.png)](https://bhumikabiyani.io)
+
 <h1 align="center">Hi 👋, I'm Yash Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
