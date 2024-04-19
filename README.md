@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaahrit" alt="yaahrit" /></a> </p>
 
-- 🔭 I’m currently working on **Tic Tac Toe**
+- 🔭 I’m currently working on **WishList App**
 
-- 🌱 I’m currently learning **React Native,DSA**
+- 🌱 I’m currently learning **Kotlin,DSA**
 
 - 💬 Ask me about **"Java"**
 
