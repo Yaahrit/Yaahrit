@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaahrit" alt="yaahrit" /></a> </p>
 
-- 🔭 I’m currently working on **Aero Pure System**
+- 🔭 I’m currently working on **Expense Tracker System**
 
 - 🌱 I’m currently learning **Spring,DSA**
 
