@@ -11,7 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Other Developer**
 
-- 👨‍💻 All of my projects are available at [https://yashrajhub.vercel.app](https://yashrajhub.vercel.app)
 
 - 💬 Ask me about **"JAVA"**
 
