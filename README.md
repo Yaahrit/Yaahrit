@@ -22,8 +22,12 @@
 - ⚡ Fun fact **I am introvert**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yashrajhub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashrajhub" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://yashrajhub.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=appveyor" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/yashrajhub" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/syashraj903" target="_blank"><img src="https://img.shields.io/badge/LeetCode-F79F1F.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.geeksforgeeks.org/user/syashraj903" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0f9d58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="mailto:syashraj903@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,3 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaahrit&show_icons=true&locale=en" alt="yaahrit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaahrit&" alt="yaahrit" /></p>
+
+### 💬 **Developer Quote**
+> *"Code is like humor. When you have to explain it, it’s bad."* – **Cory House**
+---
