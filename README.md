@@ -75,3 +75,11 @@ I'm a dedicated frontend developer with a passion for creating sleek, user-frien
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaahrit&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%" />
 </p>
+
+---
+
+### 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yaahrit&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophy" />
+</p>
