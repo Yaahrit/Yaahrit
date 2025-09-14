@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaahrit&label=Profile%20views&color=0e75b6&style=flat" alt="yaahrit" /> </p>
 <img align="right" alt="PNG" src="https://github.com/Vanshikapandey30/Vanshikapandey30/blob/main/assets/img/cat.png" width="200" height="200" />
 
-<p align="center">
+<div align="center" style="background-color:black; padding:10px; border-radius:10px;">
   <img src="https://github.com/Yaahrit/Yash_PortFolio/blob/main/images/undraw_programming_65t2.png" alt="Developer" width="400" />
-</p>
+</div>
 
 - 🔭 I’m currently working on **Expense Tracker System**
 
@@ -74,3 +74,4 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yaahrit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
