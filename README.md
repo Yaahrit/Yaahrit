@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaahrit&label=Profile%20views&color=0e75b6&style=flat" alt="yaahrit" /> </p>
 <img align="right" alt="PNG" src="https://github.com/Vanshikapandey30/Vanshikapandey30/blob/main/assets/img/cat.png" width="200" height="200" />
 
-
-- 🔭 I’m currently working on **Expense Tracker System**
-
 - 🌱 I’m currently learning **Spring and Spring Boot**
 
 - 👯 I’m looking to collaborate on **Other Developer**
