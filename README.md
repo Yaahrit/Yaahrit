@@ -3,10 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,FF8C00,FF4500&height=220&section=header&text=Yash%20Raj&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20React%20Enthusiast%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=yaahrit&label=Profile%20Views&color=FF6B00&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<a href="https://yashrajhub.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Live-FF6B00?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -84,11 +80,9 @@ public class YashRaj extends Developer {
 
 ## 🏆 Featured Project
 
-<a href="https://github.com/yaahrit/stackit-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaahrit&repo=stackit-tracker&theme=dark&title_color=FF6B00&icon_color=FF6B00&border_color=FF6B00" />
-</a>
-
 > 🔥 **StackIt Tracker** — AI-powered developer ecosystem platform. Unifies project health monitoring, skill mastery tracking, and intelligent roadmap generation into one dashboard. Built with Spring Boot, React (TypeScript), PostgreSQL, and a Gemini AI-ready service layer.
+>
+> 👉 [View Repository](https://github.com/yaahrit/stackit-tracker)
 
 ---
 
@@ -96,13 +90,13 @@ public class YashRaj extends Developer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yaahrit&show_icons=true&theme=dark&title_color=FF6B00&icon_color=FF6B00&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yaahrit&show_icons=true&theme=dark&title_color=FF6B00&icon_color=FF6B00&border_color=30363d&include_all_commits=true&count_private=true&cache_seconds=1800" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaahrit&theme=dark&title_color=FF6B00&border_color=30363d&hide_border=false&layout=compact&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaahrit&theme=dark&title_color=FF6B00&border_color=30363d&layout=compact&langs_count=8&cache_seconds=1800" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaahrit&theme=dark&ring=FF6B00&fire=FF4500&currStreakLabel=FF6B00&hide_border=false&border=30363d" />
+<img src="https://streak-stats.demolab.com?user=yaahrit&theme=dark&ring=FF6B00&fire=FF4500&currStreakLabel=FF6B00&border=30363d" />
 
 </div>
 
@@ -112,23 +106,9 @@ public class YashRaj extends Developer {
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=yaahrit&theme=gruvbox&no-frame=false&no-bg=false&margin-w=6&column=6)
+<img src="https://github-profile-trophy.vercel.app/?username=yaahrit&theme=gruvbox&no-frame=false&no-bg=false&margin-w=6&column=6" />
 
 </div>
-
----
-
-## 💻 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/syashraj903" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/syashraj903" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0f9d58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
@@ -136,11 +116,15 @@ public class YashRaj extends Developer {
 
 <p align="center">
   <a href="https://yashrajhub.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-yashrajhub.netlify.app-FF6B00?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-yashrajhub.netlify.app-FF6B00?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
   <br/><br/>
   <a href="https://linkedin.com/in/yashrajhub" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Yash%20Raj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/syashraj903" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-syashraj903-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:syashraj903@gmail.com">
