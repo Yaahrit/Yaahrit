@@ -109,9 +109,7 @@ public class YashRaj extends Developer {
 ## 🏅 Achievements
 
 <div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=yaahrit&theme=gruvbox&no-frame=false&no-bg=false&margin-w=6&column=6)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=yaahrit&theme=gruvbox&margin-w=6&column=6)
 </div>
 
 ---
