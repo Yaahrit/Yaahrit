@@ -1,5 +1,17 @@
 <div align="center">
 
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=600&color=22C55E&center=true&vCenter=true&width=650&lines=Aspiring+Backend+Engineer;Java+%7C+Spring+Boot+%7C+MySQL;REST+API+Development;Exploring+Cloud+%26+System+Design" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <b>MCA Student</b> • <b>Backend Enthusiast</b> • <b>Open to Internships & Full-Time Roles</b>
+</p>
+
+
+
+
 <img alt="PNG" src="https://github.com/Vanshikapandey30/Vanshikapandey30/blob/main/assets/img/cat.png" width="200" height="200" />
 
 <img src="https://komarev.com/ghpvc/?username=yaahrit&label=Profile%20Views&color=FF6B00&style=for-the-badge" alt="Profile Views" />
