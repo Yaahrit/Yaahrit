@@ -106,9 +106,21 @@ public class YashRaj extends Developer {
 
 </div>
 
-## 🏅 Achievements
+### 📈 GitHub Activity
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yaahrit&theme=gruvbox&v=1)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaahrit&bg_color=0d1117&color=2563EB&line=3b82f6&point=ffffff&area=true&hide_border=true&hide_title=true" width="100%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luv-jeri/luv-jeri/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luv-jeri/luv-jeri/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/luv-jeri/luv-jeri/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
 
 ## 🤝 Connect With Me
@@ -142,24 +154,6 @@ public class YashRaj extends Developer {
 
 </div>
 
-
-
-
-### 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaahrit&bg_color=0d1117&color=2563EB&line=3b82f6&point=ffffff&area=true&hide_border=true&hide_title=true" width="100%" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luv-jeri/luv-jeri/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luv-jeri/luv-jeri/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/luv-jeri/luv-jeri/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
 
 <div align="center">
   <small>© 2026 Yash Raj. Crafted with code & creativity.</small>
