@@ -9,7 +9,7 @@
   <b>MCA Student</b> • <b>Backend Enthusiast</b> • <b>Open to Internships & Full-Time Roles</b>
 </p>
 
-<img alt="PNG" src="https://github.com/Vanshikapandey30/Vanshikapandey30/blob/main/assets/img/cat.png" width="200" height="200" />
+<img alt="PNG" src="logo.png" width="200" height="200" />
 
 <img src="https://komarev.com/ghpvc/?username=yaahrit&label=Profile%20Views&color=FF6B00&style=for-the-badge" alt="Profile Views" />
 &nbsp;
