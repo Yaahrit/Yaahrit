@@ -96,17 +96,15 @@ public class YashRaj extends Developer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yaahrit&show_icons=true&theme=dark&title_color=FF6B00&icon_color=FF6B00&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yaahrit&show_icons=true&theme=dark&title_color=FF6B00&icon_color=FF6B00&border_color=30363d&include_all_commits=true&count_private=true&cache_seconds=1800" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaahrit&theme=dark&title_color=FF6B00&border_color=30363d&hide_border=false&layout=compact&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaahrit&theme=dark&title_color=FF6B00&border_color=30363d&layout=compact&langs_count=8&cache_seconds=1800" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaahrit&theme=dark&ring=FF6B00&fire=FF4500&currStreakLabel=FF6B00&hide_border=false&border=30363d" />
+<img src="https://streak-stats.demolab.com?user=yaahrit&theme=dark&ring=FF6B00&fire=FF4500&currStreakLabel=FF6B00&border=30363d" />
 
 </div>
-
----
 
 ## 🏅 Achievements
 
