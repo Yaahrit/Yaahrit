@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,FF8C00,FF4500&height=220&section=header&text=Yash%20Raj&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20React%20Enthusiast%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<p> <img src="https://komarev.com/ghpvc/?username=yaahrit&label=Profile%20views&color=0e75b6&style=flat" alt="yaahrit" /> </p>
 
 <img src="https://komarev.com/ghpvc/?username=yaahrit&label=Profile%20Views&color=FF6B00&style=for-the-badge" alt="Profile Views" />
 &nbsp;
@@ -113,20 +113,6 @@ public class YashRaj extends Developer {
 ![](https://github-profile-trophy.vercel.app/?username=yaahrit&theme=gruvbox&no-frame=false&no-bg=false&margin-w=6&column=6)
 
 </div>
-
----
-
-## 💻 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/syashraj903" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/syashraj903" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0f9d58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
