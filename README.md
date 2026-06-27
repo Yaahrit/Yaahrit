@@ -28,7 +28,7 @@ public class YashRaj extends Developer {
 
     private final String name        = "Yash Raj";
     private final String location    = "India 🇮🇳";
-    private final String education   = "MCA — Currently Pursuing";
+    private final String education   = "Gniot Group of Institution";
     private final String portfolio   = "https://yashrajhub.netlify.app";
     private final String email       = "syashraj903@gmail.com";
 
@@ -47,7 +47,6 @@ public class YashRaj extends Developer {
 
 ## 🚀 What I'm Up To
 
-- 🔨 **Building** — [StackIt Tracker](https://github.com/yaahrit) · An AI-powered developer ecosystem platform (Spring Boot + React + PostgreSQL)
 - 📖 **Learning** — Spring Security, Microservices Architecture & System Design patterns
 - 🤝 **Open to** — Collaborating on full-stack or open-source Java/React projects
 - 💬 **Ask me about** — Java, Spring Boot, React, or crafting clean REST APIs
@@ -88,16 +87,6 @@ public class YashRaj extends Developer {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
----
-
-## 🏆 Featured Project
-
-<a href="https://github.com/yaahrit/stackit-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaahrit&repo=stackit-tracker&theme=dark&title_color=FF6B00&icon_color=FF6B00&border_color=FF6B00" />
-</a>
-
-> 🔥 **StackIt Tracker** — AI-powered developer ecosystem platform. Unifies project health monitoring, skill mastery tracking, and intelligent roadmap generation into one dashboard. Built with Spring Boot, React (TypeScript), PostgreSQL, and a Gemini AI-ready service layer.
 
 ---
 
